@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:7aa2f7&height=220&section=header&text=Hi,%20I'm%20Elias&fontSize=52&fontColor=c0caf5&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20Laravel%20%E2%80%A2%20React%20%E2%80%A2%20Always%20Learning&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:7aa2f7&height=220&section=header&text=Hi,%20I'm%20BeatriceIvy&fontSize=52&fontColor=c0caf5&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20Laravel%20%E2%80%A2%20React%20%E2%80%A2%20Always%20Learning&descSize=18&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://github.com/BeatriceIvy">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&background=00000000&center=true&vCenter=true&width=520&lines=Building+clean+%26+fast+web+apps;PHP+%2F+Laravel+%E2%9E%9C+React+%E2%9E%9C+MySQL;Dark+mode+is+the+only+mode+%F0%9F%8C%99;Learning+cybersecurity+%26+Japanese+on+the+side" alt="Typing SVG" />
@@ -118,7 +118,7 @@ E-Commerce toko komputer dengan desain modern
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&ring_color=7aa2f7" alt="Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=BeatriceIvy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&ring_color=7aa2f7" alt="Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatriceIvy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=BeatriceIvy&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=c0caf5" alt="Streak" />
