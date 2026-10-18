@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=BeatriceIvy&style=flat-square&color=7aa2f7&label=PROFILE+VIEWS&labelColor=1a1b26)
+![Profile Views]([https://komarev.com/ghpvc/?username=BeatriceIvy&style=flat-square&color=7aa2f7&label=PROFILE+VIEWS&labelColor=1a1b26])
 ![Followers](https://img.shields.io/github/followers/BeatriceIvy?style=flat-square&color=bb9af7&labelColor=1a1b26)
 ![Stars](https://img.shields.io/github/stars/BeatriceIvy?style=flat-square&color=e0af68&labelColor=1a1b26)
 
