@@ -106,9 +106,6 @@ E-Commerce toko komputer dengan desain modern
 
 [🔗 Lihat Repo](https://github.com/BeatriceIvy/Zenthra)
 </td>
-</td>
-
-
   </tr>
 </table>
 
