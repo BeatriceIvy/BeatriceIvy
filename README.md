@@ -90,10 +90,10 @@ Aplikasi web manajemen tugas dengan tampilan **glassmorphism** biar deadline tet
 [🔗 Lihat Repo](https://github.com/BeatriceIvy/Task-and-Schedule-Management-System)
 </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 ### Apotek Hidup
-Aplikasi web E-Commerce dan memantau stok serta data penjualan
+  Aplikasi web E-Commerce dan memantau stok serta data penjualan
 
 `PHP` `MySQL` `CSS`
 
